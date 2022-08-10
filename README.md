@@ -1,6 +1,6 @@
 # Solidity
-
-Blockchain project, Contract deployment with truffle.
+Blockchain project
+dApp implementing bank-like transactions, Contract deployment with truffle.
 
 
 
